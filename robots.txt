@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lewis-goat.github.io/license-roadmap/sitemap.xml
